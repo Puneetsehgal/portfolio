@@ -1,0 +1,4 @@
+[30-Mar-2018 04:24:22 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/puneetsehgal88/public_html/php/model/user.php on line 293
+[30-Mar-2018 04:27:53 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/puneetsehgal88/public_html/php/model/user.php on line 293
+[30-Mar-2018 04:31:01 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/puneetsehgal88/public_html/php/model/user.php on line 293
+[30-Mar-2018 04:31:02 UTC] PHP Fatal error:  Call to a member function prepare() on a non-object in /home/puneetsehgal88/public_html/php/model/user.php on line 293
